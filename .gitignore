@@ -1,0 +1,11 @@
+build/
+result
+result-*
+tmp/
+*.bc
+compile_commands.json
+__pycache__/
+*.pyc
+.*
+!.gitignore
+!.envrc
